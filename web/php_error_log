@@ -1,1 +1,0 @@
-[14-Jul-2025 18:54:41 UTC] PHP Parse error:  syntax error, unexpected variable "$_SERVER", expecting ";" in C:\laragon\www\ecommerce\web\controllers\controller.template.php on line 21
