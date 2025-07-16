@@ -18,13 +18,15 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <title>AdminLTE 3 | Top Navigation + Sidebar</title>
 
   <!-- Google Font: Source Sans Pro -->
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/plugins/fontawesome-free/css/all.min.css">
   <!-- Latest compiled and minified CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <!-- Theme style -->
   <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/adminlte/adminlte.min.css">
+  <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/template/template.css">
+
 
   <!-- jQuery -->
   <script src="<?php echo $path ?>views/assets/js/plugins/jquery/jquery.min.js"></script>
@@ -40,7 +42,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
     include "modules/top.php";
     include "modules/navbar.php";
-    //include "modules/sidebar.php";
+    include "modules/sidebar.php";
+    include "pages/home/home.php";
+    include "modules/footer.php";
 
 
     ?>

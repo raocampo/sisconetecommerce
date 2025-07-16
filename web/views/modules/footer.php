@@ -1,13 +1,3 @@
- <style>
-   a:link,
-   a:visited,
-   a:hover,
-   a:active {
-     text-decoration: none !important;
-     color: inherit !important;
-   }
- </style>
-
  <div class="container-fluid bg-dark small">
 
    <div class="container py-5 text-light">
@@ -24,7 +14,7 @@
 
            </h4>
 
-           <hr class="borde-white">
+           <hr class="border-white">
 
            <ul>
 
@@ -43,7 +33,7 @@
 
            </h4>
 
-           <hr class="borde-white">
+           <hr class="border-white">
 
            <ul>
 
@@ -63,7 +53,7 @@
 
            </h4>
 
-           <hr class="borde-white">
+           <hr class="border-white">
 
            <ul>
 
@@ -84,7 +74,7 @@
 
          <br>
 
-         <h1 class="lead">
+         <h1 class="lead small">
 
            <i class="fa fa-phone-square pe-2"></i> (593) 07-2-575-155
 
@@ -108,7 +98,7 @@
 
        <div class="col small my-3 my-lg-0">
 
-         <h4>RESUELVA SU INQUIETUD</h4>
+         <h4 class="small" >RESUELVA SU INQUIETUD</h4>
 
          <form role="form" method="post">
 
@@ -124,7 +114,7 @@
 
            <br>
 
-           <input type="submit" value="Enviar" class="btn btn-default float-right border-0" style="background: #47BAC1; color: white;">
+           <input type="submit" value="Enviar" class="btn btn-default float-right border-0 templateColor">
 
 
          </form>
@@ -138,7 +128,7 @@
  </div>
 
  <!-- Main Footer -->
- <footer class="main-footer" style="background: black; color:white">
+ <footer class="main-footer topColor">
 
    <div class="container">
      <!-- To the right -->
