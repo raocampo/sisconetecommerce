@@ -40,7 +40,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
     include "modules/top.php";
     include "modules/navbar.php";
-    include "modules/sidebar.php";
+    //include "modules/sidebar.php";
 
 
     ?>
@@ -135,7 +135,13 @@ scratch. This page gets rid of all links and provides the needed markup only.
     </div>
     <!-- /.content-wrapper -->
 
-    <?php include "modules/sidebar.php"; ?>
+    <?php 
+    
+    include "modules/sidebar.php"; 
+    include "modules/footer.php";
+    
+    ?>
+
 
   </div>
   <!-- ./wrapper -->
