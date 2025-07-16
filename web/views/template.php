@@ -19,19 +19,33 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
   <!-- Google Font: Source Sans Pro -->
   <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">
+  
+  <!-- CSS -->
+  
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/plugins/fontawesome-free/css/all.min.css">
+  
   <!-- Latest compiled and minified CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- JDSlider -->
+  <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/plugins/jdSlider/jdSlider.css">
+
   <!-- Theme style -->
   <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/adminlte/adminlte.min.css">
   <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/template/template.css">
 
+  <!-- JS -->
 
   <!-- jQuery -->
   <script src="<?php echo $path ?>views/assets/js/plugins/jquery/jquery.min.js"></script>
+  
   <!-- Latest compiled JavaScript -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- JDSlider -->
+  <script src="<?php echo $path ?>views/assets/js/plugins/jdSlider/jdSlider.js"></script>
+
 
 </head>
 

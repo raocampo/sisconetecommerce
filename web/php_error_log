@@ -5,3 +5,5 @@
 [16-Jul-2025 19:20:07 UTC] PHP Parse error:  syntax error, unexpected token "include" in C:\laragon\www\ecommerce\web\views\template.php on line 47
 [16-Jul-2025 19:20:08 UTC] PHP Parse error:  syntax error, unexpected token "include" in C:\laragon\www\ecommerce\web\views\template.php on line 47
 [16-Jul-2025 19:20:10 UTC] PHP Parse error:  syntax error, unexpected token "include" in C:\laragon\www\ecommerce\web\views\template.php on line 47
+[16-Jul-2025 23:04:52 UTC] PHP Warning:  include(modules/masVisitados.php): Failed to open stream: No such file or directory in C:\laragon\www\ecommerce\web\views\pages\home\home.php on line 6
+[16-Jul-2025 23:04:52 UTC] PHP Warning:  include(): Failed opening 'modules/masVisitados.php' for inclusion (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\ecommerce\web\views\pages\home\home.php on line 6

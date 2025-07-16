@@ -1,3 +1,11 @@
-<div class="container">
-    <h1>Hola Soy la página de inicio</h1>
-</div>
+  <?php
+
+    include "modules/carrusel.php";
+    include "modules/banner.php";
+    include "modules/gratis.php";
+    include "modules/masVisitados.php";
+    include "modules/masVendidos.php";
+    include "modules/visitantes.php";
+
+
+    ?>
