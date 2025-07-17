@@ -71,7 +71,7 @@
 
                         <a href="#" class="text-white">
 
-                            Crear una cuenta
+                            Crear cuenta
 
                         </a>
                     </div>
