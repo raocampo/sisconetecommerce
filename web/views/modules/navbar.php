@@ -5,7 +5,7 @@
 
       <div class="d-flex justify-content-center">
         <a href="../../index3.html" class="navbar-brand">
-          <img src="<?php echo $path ?>views/assets/img/logo/logoSisconet.jpg" alt="Logo" class="brand-image img-circle img-fluid py-3 px-5 p-lg-0 pe-lg-3">
+          <img src="<?php echo $path ?>views/assets/img/logo/logoRefran.png" alt="Logo" class="brand-image img-circle img-fluid py-3 px-5 p-lg-0 pe-lg-3">
         </a>
 
       </div>

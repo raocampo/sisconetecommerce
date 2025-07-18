@@ -15,7 +15,11 @@ scratch. This page gets rid of all links and provides the needed markup only.
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AdminLTE 3 | Top Navigation + Sidebar</title>
+
+  <title>ECOMMERCE - SISCONET</title>
+
+  <!--Favicon / iconos-->
+  <link rel="icon" type="image/png" sizes="32x32" href="<?php echo $path ?>views/assets/img/iconos/iconoWhite.png"/>
 
   <!-- Google Font: Source Sans Pro -->
   <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">
@@ -34,6 +38,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <!-- Theme style -->
   <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/adminlte/adminlte.min.css">
   <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/template/template.css">
+  <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/productos/productos.css">
 
   <!-- JS -->
 
@@ -168,8 +173,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
   <!-- AdminLTE App -->
   <script src="<?php echo $path ?>views/assets/js/plugins/adminlte/adminlte.min.js"></script>
-  <!-- AdminLTE for demo purposes 
-<script src="../../dist/js/demo.js"></script>-->
+  <script src="<?php echo $path ?>views/assets/js/productos/productos.js"></script>
+  
 </body>
 
 </html>

@@ -1,5 +1,7 @@
 body{
+  background-color: azure;
   font-family: "Ubuntu", sans-serif;
+
 }
 
 .dropdown-toggle::after{
@@ -26,9 +28,9 @@ a:active {
   color:white;
 }
 
-.templateColor, .templateColor:hover{
-    background: #47BAc1; 
-    color: white;
+.templateColor, .templateColor:hover, a.templateColor{
+    background: #1763ad !important; 
+    color: white !important;
 }
 
 .main-footer{
