@@ -4,7 +4,7 @@
 
         <div class="btn-group float-end p-2">
 
-            <button class="btn btn-default btnView" type="grid">
+            <button class="btn btn-default btnView bg-white" type="grid">
 
                 <i class="fas fa-th fa-xs pe-1"></i>
 

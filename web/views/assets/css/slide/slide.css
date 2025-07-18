@@ -94,7 +94,7 @@
 @media (max-width: 767px){
 
   .slideOpt h1{
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-top: 0.5rem;
     margin-bottom: -2rem;
   }
@@ -104,13 +104,13 @@
   }
 
   .slideOpt h2{
-    font-size: 1rem;
+    font-size: 0.5rem;
     margin-top: 2.5rem;
   }
 
   .slideOpt button{
     padding: 0.5rem;
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
 
 }
