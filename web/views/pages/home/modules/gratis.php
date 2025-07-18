@@ -12,7 +12,7 @@
 
             </button>
 
-             <button class="btn btn-default btnView" type="list">
+             <button class="btn btn-default btnView" type="lºist">
 
                 <i class="fas fa-th fa-xs pe-1"></i>
 
