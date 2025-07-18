@@ -1,22 +1,37 @@
 /*CUADROS Y LISTAS */
 
-$(document).on("click", ".btnView", function(){
+$(document).on("click",".btnView", function(){
 
-    var type = $(this).attr("type");
+    var type = $(this).attr("attr-type");
+    var btnType = $("[attr-type]");
+    var index = $(this).attr("attr-index");
 
     if(type == "list"){
 
-        $(".grid-1").hide();
-        $(".grid-1").show();
+        $(".grid-"+index).hide();
+        $(".list-"+index).show();
 
     }
 
     if(type == "grid"){
 
-        $(".grid-1").show();
-        $(".grid-1").hide();
+        $(".grid-"+index).show();
+        $(".list-"+index).hide();
 
     }
+
+    btnType.each(function(i){
+
+        if($(btnType[i]).attr("attr-index") == index){
+
+            $(btnType[i]).removeClass("bg-blue");
+
+        }        
+       
+    })
+    
+    $(this).addClass("bg-blue");
+    
 
 
 

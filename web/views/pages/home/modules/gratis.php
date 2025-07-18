@@ -4,7 +4,7 @@
 
         <div class="btn-group float-end p-2">
 
-            <button class="btn btn-default btnView bg-white" type="grid">
+            <button class="btn btn-default btnView bg-blue" attr-type="grid" attr-index="1">
 
                 <i class="fas fa-th fa-xs pe-1"></i>
 
@@ -12,7 +12,7 @@
 
             </button>
 
-             <button class="btn btn-default btnView" type="lºist">
+             <button class="btn btn-default btnView" attr-type="list" attr-index="1">
 
                 <i class="fas fa-th fa-xs pe-1"></i>
 
@@ -244,7 +244,7 @@
                <div class="media-body ps-3">
 
                   <h5><small class="text-uppercase text-muted">Kit Teclado mouse</small></h5>
-                  <span class=" badge badgeNew bg-warning text-uppercas text-white mt-1 p-2">Nuevo</span>
+                  <span class=" badge badgeNew bg-warning text-uppercas text-white p-2">Nuevo</span>
                   
                   <p class="my-2">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod at quasi nulla unde deleniti debitis esse repellat excepturi doloribus amet corrupti sit, perspiciatis molestiae provident ut quo et, porro mollitia!
@@ -287,7 +287,7 @@
                <div class="media-body ps-3">
 
                   <h5><small class="text-uppercase text-muted">Kit Componentes</small></h5>
-                  <span class=" badge badgeNew bg-warning text-uppercas text-white mt-1 p-2">Nuevo</span>
+                  <span class=" badge badgeNew bg-warning text-uppercas text-white p-2">Nuevo</span>
                   
                   <p class="my-2">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod at quasi nulla unde deleniti debitis esse repellat excepturi doloribus amet corrupti sit, perspiciatis molestiae provident ut quo et, porro mollitia!
@@ -330,7 +330,7 @@
                <div class="media-body ps-3">
 
                   <h5><small class="text-uppercase text-muted">Tarjeta de Video</small></h5>
-                  <span class=" badge badgeNew bg-warning text-uppercas text-white mt-1 p-2">Nuevo</span>
+                  <span class=" badge badgeNew bg-warning text-uppercas text-white p-2">Nuevo</span>
                   
                   <p class="my-2">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod at quasi nulla unde deleniti debitis esse repellat excepturi doloribus amet corrupti sit, perspiciatis molestiae provident ut quo et, porro mollitia!
@@ -373,7 +373,7 @@
                <div class="media-body ps-3">
 
                   <h5><small class="text-uppercase text-muted">Monitor</small></h5>
-                  <span class=" badge badgeNew bg-warning text-uppercas text-white mt-1 p-2">Nuevo</span>
+                  <span class=" badge badgeNew bg-warning text-uppercas text-white p-2">Nuevo</span>
                   
                   <p class="my-2">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod at quasi nulla unde deleniti debitis esse repellat excepturi doloribus amet corrupti sit, perspiciatis molestiae provident ut quo et, porro mollitia!

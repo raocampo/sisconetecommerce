@@ -1,4 +1,4 @@
-<div class="container-fluid banner" style="position: relative; background: url(<?php echo $path ?>views/assets/img/banner/1/default.jpg); background-size: cover;backgroun-position: center; background-repeat: no-repeat">
+<div class="container-fluid banner" style="position: relative; background: url(<?php echo $path ?>views/assets/img/banner/1/fondoRebajas.jpg); background-size: cover;backgroun-position: center; background-repeat: no-repeat">
 
     <div class="container-fluid" style="background-color: rgba(0, 0, 0, .5);">
 
