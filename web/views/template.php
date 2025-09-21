@@ -1,7 +1,13 @@
 <?php
 
+/*Variable Path */
+
 $path = TemplateController::path();
 /*echo '<pre>'; print_r($path); echo '</pre>';*/
+
+/*Solicitus GET de Template */
+
+
 
 ?>
 
